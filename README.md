@@ -10,18 +10,25 @@ Basics:
 5. Computer Networks
 
 JavaScript
-- JavaScript Basics
+1. Getting Started
+2. JavaScript Basics
+3. JavaScript Practice
+4. JavaScript Debugging and Review
 
 SQL
-- SQL
+1. SQL
 
 Ruby
-- Ruby Programming Language
-- OOPs and Solid
+1. Ruby Programming Language
+2. OOPs and Solid
+
+HTML and CSS
+1. HTML and CSS
 
 Web Basics
-- HTML and CSS
-- Browser and DOM basics
+1. Browser
+2. DOM
+3. Web App Architecture
 
 Ruby on Rails
-- Ruby on Rails
+1. Ruby on Rails
