@@ -20,8 +20,10 @@ Advanced HTML & CSS
 * Lesson 4: Responsive Web Design
 
 Resources for Web Development for any Topic:
-
 [Mozilla Web Docs](https://developer.mozilla.org/en-US/)
+
+CSS Reference:
+[A Visual Reference to CSS](https://cssreference.io/)
 
 ### Optional Resources
 
