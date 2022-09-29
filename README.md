@@ -20,7 +20,7 @@ SQL
 
 Ruby
 1. Ruby Programming Language
-2. OOPs and Solid
+2. OOP and Solid
 
 HTML and CSS
 1. HTML and CSS
